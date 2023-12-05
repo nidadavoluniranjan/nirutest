@@ -1,0 +1,2 @@
+Hi This is Niranjan
+This file is for git practice purpose
