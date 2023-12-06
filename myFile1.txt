@@ -1,0 +1,1 @@
+My file1 for testing pollSCM build trigger in Jenkins
